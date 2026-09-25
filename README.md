@@ -1,15 +1,18 @@
-# Тэнгэрийн Амра — Resort website
+# Hoyor Zagal — Resort website
 
 Next.js + TypeScript + Tailwind CSS ашигласан responsive амралтын газрын танилцуулга сайт.
 
 ## Ажиллуулах
+
 ```bash
 npm install
 npm run dev
 ```
+
 Дараа нь http://localhost:3000 нээнэ.
 
 ## Өөрчлөх
+
 - `app/page.tsx` — бүх контент, байрны мэдээлэл, үнэ, холбоо барих мэдээлэл
 - `components/SiteHeader.tsx` — navigation/mobile menu
 - `components/BookingCard.tsx` — захиалгын хайлтын хэсэг
