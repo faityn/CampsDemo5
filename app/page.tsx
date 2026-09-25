@@ -44,7 +44,7 @@ const stays = [
     title: "GURU ECO COMPLEX",
     meta: "TERELJ · ECO ESCAPE",
     price: "400,000₮",
-    img: "/images/guru/11.JPG",
+    img: "/images/guru/11.jpg",
     logo: "/images/guru/logo.png",
     desc: "Spacious accommodation for a comfortable stay with family or friends.",
   },
