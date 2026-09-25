@@ -2,8 +2,8 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Тэнгэрийн Амралт — Амралтын газар",
-  description: "Байгальд ойр, тайван амралтыг Тэнгэрийн Амра-д.",
+  title: "Integrated tourism lodges",
+  description: "Three distinctive escapes across Mongolia.",
 };
 export default function RootLayout({
   children,
